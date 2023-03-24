@@ -3,7 +3,7 @@ Eternal Lands User Menu files
 User Menu infos || https://www.el-wiki.net/User_menus
 
 Name		|Filename		|Description
----------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 Usermenu	|1_usermenu.menu	|Emotions/Privacy/Beam me to Isla Prima/Ignore/Friend/View Only Storage
 PMmenu		|2_pm.menu_off		|Direct PMs/Direct Guild Message/Direct Channel Message (edit this file before use!)
 Guild		|3_guild.menu		|Guild User Commands
