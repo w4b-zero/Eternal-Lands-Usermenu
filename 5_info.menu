@@ -12,6 +12,7 @@ Armour||#arm
 Experience||#exp
 Gods||#list_gods
 Perks||#list_perks
+Books read||#known -r
 ||
 View Only Storage||#storage
 ||
