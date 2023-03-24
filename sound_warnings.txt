@@ -7,7 +7,8 @@
 # alert1, alert2, alert3, alert4
 #
 
-alert1 = [PM from 
-alert2 = #GM
+alert4 = [PM from 
+alert1 = #GM
 alert3 = You stopped harvesting.
-alert4 = Day ends
+alert2 = *
+alert1 = Day ends
