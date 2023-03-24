@@ -8,6 +8,10 @@ Beam me to Isla Prima...||#beam me <Beam to Isla Prima? type "y">
 ||
 Go AFK||#save||#afk
 ||
+GM Usermenu&maps...||#gm User Menus and Custom Maps https://github.com/w4b-zero/Eternal-Lands-Usermenu <send User Menus and Custom Maps to #gm. type "y">
+Message Usermenu&maps...||User Menus and Custom Maps https://github.com/w4b-zero/Eternal-Lands-Usermenu <send User Menus and Custom Maps to Chat. type "y">
+PM Usermenu&maps...||/<user> User Menus and Custom Maps https://github.com/w4b-zero/Eternal-Lands-Usermenu
+||
 Save||#save
 ||
 Change Password...||#change_pass <Current Password> <New Password>
