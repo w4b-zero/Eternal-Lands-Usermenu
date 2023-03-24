@@ -1,0 +1,17 @@
+Guild
+Open RICH Guild Page||#open_url http://www.rich-guild.org.uk/
+View RICH Guild Info||#guild_info RICH
+Join Guild RICH||#join_guild RICH
+||
+Open Guild List||#open_url https://www.eternal-lands.com/page/guild_list.php
+View Guild Info...||#guild_info <Guild Tag>
+Join a Guild...||#join_guild <Full Guild Name>
+Leave Guild...||<write "#leave_guild">
+||
+View my Guild Rank||#rank
+View Players In-Guild||#list_guild
+||
+View Allies||#allies_list
+View Enemies||#enemies_list
+||
+View Guild Colors||#view_guild_colors

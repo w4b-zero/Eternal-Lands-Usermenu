@@ -1,0 +1,35 @@
+Info
+Day Information||#date||#time||#day
+Invasion Monster Count||#il
+Server Status||#stats
+Client Version||#ver
+||
+Open Players Online||#open_url http://game.eternal-lands.com/online_players.htm
+Open Top Players||#open_url https://top.el-db.com/
+||
+Achievements||#ach
+Armour||#arm
+Experience||#exp
+Gods||#list_gods
+Perks||#list_perks
+||
+View Only Storage||#storage
+||
+Beam me to Isla Prima...||#beam me <Beam to Isla Prima? type "y">
+||
+Calculator...||#calc <Equation>
+||
+Map Marker...||#mark <Name>
+||
+Open Usermenu infos||#open_url https://www.el-wiki.net/User_menus
+Open Custum Maps instructions||#open_url https://el-wiki.holy-eternalland.de/index.php?title=Custom_maps
+Open Custom Maps Download||#open_url https://maps.el-db.com/
+||
+View Current Music Track||#current_song 
+Knowledge search ...||#know <Filter Text>
+||
+Open Player Info...||#open_url http://www.eternal-lands.com/view_user.php?user=<Player Name>
+View Guild Info...||#guild_info <Guild Tag>
+||
+Open PK Rankings(offline!)||#open_url http://el.other-life.com/top/top50.php?server=pk
+Open PK Players Online||#open_url http://game.eternal-lands.com/online_pk.htm

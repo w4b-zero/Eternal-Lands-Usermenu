@@ -1,0 +1,34 @@
+Usermenu
+Wave Lefthand||*waveleft
+Wave bothhand||*waveboth
+Jump||*jump
+Clap||*clap
+Cheer left||*cheerleft
+Facepalm||*facepalm
+Scratch Head||*scratchhead
+Salute||*salute
+Bow||*bow1
+yes||*nod
+no||*shake
+Thumbs up||*thumbsup
+Stretch||*stretch
+dont know||*shrug 
+||
+list afk messages||#msg all
+Channels||#ci
+||
+Privacy On||#set_privacy on
+Privacy Off||#set_privacy off
+||
+Beam me to Isla Prima...||#beam me <Beam to Isla Prima? type "y">
+||
+Ignore...||#ignore <Name>
+Unignore...||#unignore <Name>
+Ignore List||#ignores
+Un/Ignore Bots||#ignore_bots
+||
+Add Friend...||#add_buddy <Name>
+Accept Friend...||#accept_buddy <Name>
+Delete Friend...||#del_buddy <Name>
+||
+View Only Storage||#storage

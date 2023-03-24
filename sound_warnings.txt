@@ -1,0 +1,13 @@
+# This file is configuring sounds based on text displayed in the console
+#
+# Format for this file:
+# Sound = Text to match
+#
+# The default sounds available are:
+# alert1, alert2, alert3, alert4
+#
+
+alert1 = [PM from 
+alert2 = #GM
+alert3 = You stopped harvesting.
+alert4 = Day ends

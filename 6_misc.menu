@@ -1,0 +1,15 @@
+Misc
+Show #commands help||##
+Show help on command ...||## <Command Name>
+||
+View Only Storage||#storage
+||
+Beam me to Isla Prima...||#beam me <Beam to Isla Prima? type "y">
+||
+Go AFK||#save||#afk
+||
+Save||#save
+||
+Change Password...||#change_pass <Current Password> <New Password>
+||
+Exit...||#save||#exit <close the Game? type "y">

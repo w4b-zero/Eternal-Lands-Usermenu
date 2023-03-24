@@ -1,0 +1,21 @@
+GuildMaster
+Make Guild||#make_guild
+Destroy Guild...||<write "#destroy_guild">
+Change Guild Owner...||#change_owner <Name>
+||
+Set Guild Name...||#set_name <Guild Name>
+Set Guild Description...||#set_desc <Guild Description>
+Set Guild Url...||#set_url <Guild URL>
+Set Join Info...||#set_join_info <Join Info>
+Set Guild Tag...||#set_short_name <Guild Tag (4 Characters only)>
+Set Ally...||#set_ally_guild <Guild Tag>
+Unset Ally...||#unset_ally_guild <Guild Tag>
+Set Enemy...||#set_enemy_guild <Guild Tag
+Unset Enemy...||#unset_enemy_guild <Guild Tag>
+||
+Change Tag Color...||#set_guild_color <Guild Tag> <Color>
+View Guild Colors||#view_guild_colors
+||
+Accept...||#accept <Name>
+Change Rank...||#change_rank <Name>
+Kick...||#remove <Name>
